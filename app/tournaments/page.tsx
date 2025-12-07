@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Tournaments() {
 	return (
 		<div className="min-h-screen bg-background text-foreground">
