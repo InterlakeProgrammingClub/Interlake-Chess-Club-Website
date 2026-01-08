@@ -1,4 +1,5 @@
 import Link from "next/link";
+import TournamentCard from "./tournament component";
 
 export default function Tournaments() {
 	return (
